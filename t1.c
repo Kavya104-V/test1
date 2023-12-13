@@ -7,5 +7,9 @@ add();
 }
 sub();
 mul();
+  {
+  printf("sub");
+  printf("finished");
+}
 div();
 }
