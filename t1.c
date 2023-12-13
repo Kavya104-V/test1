@@ -6,6 +6,10 @@ add();
   printf(add);
 }
 sub();
+  {
+  printf("sub");
+  printf("finished");
+}
 mul();
   {
   printf("sub");
