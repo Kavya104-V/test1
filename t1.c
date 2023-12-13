@@ -6,8 +6,12 @@ add();
   printf(add);
 }
 sub();
+dev3
+{
+  printf(sub);
   {
   printf("sub");
+ main
   printf("finished");
 }
 mul();
